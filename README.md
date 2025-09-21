@@ -123,6 +123,7 @@
 <img width="1512" height="909" alt="Figure_1" src="https://github.com/user-attachments/assets/9a4fc8ed-24be-4f6d-a1fe-0bf7415e620a" />
 
 Наиболее часто путаемые пары символов:
+
 1.
 
 ![drawing_20250805_083746](https://github.com/user-attachments/assets/695aecfc-f915-47f8-8940-4a9cda11c980)
