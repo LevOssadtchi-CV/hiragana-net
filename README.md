@@ -124,6 +124,7 @@
 
 Наиболее часто путаемые пары символов:
 1.
+
 ![drawing_20250805_083746](https://github.com/user-attachments/assets/695aecfc-f915-47f8-8940-4a9cda11c980)
 ![drawing_20250805_203012](https://github.com/user-attachments/assets/885b5b42-0687-4ef3-b9cb-69769d261f8e)
 
